@@ -1,6 +1,8 @@
 # Rohit Sah
 - Product Builder focused on Applied AI, Analytics, Mobile Messaging
 
+<br>
+
 # Select AI Projects
 - Project 1
 - Project 2
