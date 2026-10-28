@@ -4,8 +4,6 @@ Extensive domain experience in Marketing Technology (Cross-channel Marketing Orc
 <br><br>
 Connect: [LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
 
-<br>
-
 # Select AI Projects
 Conversational Analytics Agents, Agent Skills, Sentiment Analysis, Vibe Coding with Replit, Recency Frequency and Monetary (RFM) Analysis
 
