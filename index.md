@@ -1,11 +1,11 @@
 # Rohit Sah
 Product Builder focused on Applied AI, Analytics, Mobile Messaging<br><br>
-[LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
+Connect: [LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
 
 <br>
 
 # Select AI Projects
-NL Conversational Analytics, Agent Skills, Sentiment Analysis, Vibe Coding with Replit, Recency Frequency and Monetary (RFM) Analysis
+Conversational Analytics Agents, Agent Skills, Sentiment Analysis, Vibe Coding with Replit, Recency Frequency and Monetary (RFM) Analysis
 
 ## Project 1
 - Line 1
