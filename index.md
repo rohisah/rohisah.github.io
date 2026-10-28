@@ -7,8 +7,6 @@ Connect: [LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
 # Select AI Projects
 Conversational Analytics Agents, Agent Skills, Sentiment Analysis, Vibe Coding with Replit, Recency Frequency and Monetary (RFM) Analysis
 
-## Project 1
-- Line 1
-- Line 2
-## Project 2
-## Project 3
+## FC Form Tracker: sports analytics app built with Replit
+
+## Recency, Frequency, Monetary Analysis for Mobile Apps
