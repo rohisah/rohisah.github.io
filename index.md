@@ -4,6 +4,8 @@
 <br>
 
 # Select AI Projects
-- Project 1
-- Project 2
-- Project 3
+## Project 1
+- Line 1
+- Line 2
+## Project 2
+## Project 3
