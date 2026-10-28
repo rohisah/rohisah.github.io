@@ -8,5 +8,11 @@ Connect: [LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
 Conversational Analytics Agents, Agent Skills, Sentiment Analysis, Vibe Coding with Replit, Recency Frequency and Monetary (RFM) Analysis
 
 ## FC Form Tracker: sports analytics app built with Replit
+FC Form Tracker is a sports analytics app built with the Replit Starter Plan that enables English Premier League fans to:
+- track team form across seasons
+- compare two teams
+- review standings and team form for the current season
+
+Read more at: [Seven tips for new builders on Replit](https://sahrohit.substack.com/p/seven-tips-for-new-builders-on-replit)
 
 ## Recency, Frequency, Monetary Analysis for Mobile Apps
