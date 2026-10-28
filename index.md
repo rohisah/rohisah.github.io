@@ -1,5 +1,6 @@
 # Rohit Sah
 Product Builder focused on Applied AI, Analytics, Mobile Messaging
+[LinkedIn] (https://www.linkedin.com/in/rohit-sah-b46376/)
 
 <br>
 
