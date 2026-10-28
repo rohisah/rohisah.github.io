@@ -15,4 +15,8 @@ FC Form Tracker is a sports analytics app built with the Replit Starter Plan tha
 
 Read more at: [Seven tips for new builders on Replit](https://sahrohit.substack.com/p/seven-tips-for-new-builders-on-replit)
 
+Technology Stack
+- [Replit](https://replit.com) to code and host the app
+- [football-data.org](https://www.football-data.org) for current's season standings data
+
 ## Recency, Frequency, Monetary Analysis for Mobile Apps
