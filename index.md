@@ -4,6 +4,8 @@
 <br>
 
 # Select AI Projects
+NL Conversational Analytics, Agent Skills, Sentiment Analysis, , Vibe Coding with Replit, Recency Frequency and Monetary (RFM) Analysis
+
 ## Project 1
 - Line 1
 - Line 2
