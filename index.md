@@ -19,4 +19,4 @@ Technology Stack
 - [Replit](https://replit.com) to develop and host the app
 - [football-data.org](https://www.football-data.org) for current's season standings data
 
-## Recency, Frequency, Monetary Analysis for Mobile Apps
+## Recency, Frequency, Monetary (RFM) Analysis for Mobile Apps
