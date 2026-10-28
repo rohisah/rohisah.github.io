@@ -1,5 +1,7 @@
 # Rohit Sah
-Product Builder focused on Applied AI, Analytics, Mobile Messaging<br><br>
+Product Builder focused on Applied AI, Analytics, Mobile Messaging
+Extensive domain experience in Marketing Technology (Cross-channel Marketing Orchestration, Customer Data Platforms)
+<br><br>
 Connect: [LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
 
 <br>
