@@ -20,3 +20,4 @@ Technology Stack
 - [football-data.org](https://www.football-data.org) for current's season standings data
 
 ## RFM Analysis for Mobile Apps
+Oracle Responsys RFM for Mobile Apps intelligently segments customers based on campaign engagement recency, frequency, and attributed revenue to identify customer behaviour patterns and value.
