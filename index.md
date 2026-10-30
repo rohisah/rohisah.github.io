@@ -7,6 +7,10 @@ Connect: [LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
 # Select AI Projects
 Conversational Analytics Agents, Agent Skills, Aspect-based Sentiment Analysis, Vibe Coding with Replit, RFM Analysis
 
+## Segment Insights Analyst: a conversational analytics agent for Segment Analytics
+The Segment Insights Analyst enables marketers to analyze segment composition in natural language.
+Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Contacts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26d/fmkt-26d/26D-fusion-marketing-wn-f52070.htm)
+
 ## FC Form Tracker: sports analytics app built with Replit
 FC Form Tracker is a sports analytics app built with the Replit Starter Plan that enables English Premier League fans to:
 - track team form across seasons
