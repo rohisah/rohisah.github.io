@@ -9,6 +9,7 @@ Conversational Analytics Agents, Agent Skills, Aspect-based Sentiment Analysis, 
 
 ## Segment Insights Analyst: a conversational analytics agent for Segment Analytics
 The Segment Insights Analyst enables marketers to analyze segment composition in natural language.
+
 Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Contacts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26d/fmkt-26d/26D-fusion-marketing-wn-f52070.htm)
 
 ## FC Form Tracker: sports analytics app built with Replit
