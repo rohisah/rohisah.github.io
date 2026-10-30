@@ -7,7 +7,7 @@ Extensive domain experience in Marketing Technology (Cross-channel Marketing Orc
 Conversational Analytics Agents, Agent Skills, RFM Analysis, Aspect-based Sentiment Analysis, Vibe Coding with Replit
 
 ## Segment Insights Analyst: conversational analytics agent
-The Segment Insights Analyst enables marketers to analyze segment composition, in natural language, directly in the segment design workflow. The agent answers questions about segment KPIs, composition across supported dimensions, top account previews, and comparisons with another segment.
+The [Segment Insights Analyst](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm) in Oracle Fusion Marketing enables marketers to analyze segment composition, in natural language, directly in the segment design workflow. The agent answers questions about segment KPIs, composition across supported dimensions, top account previews, and comparisons with another segment.
 
 Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm)
 
