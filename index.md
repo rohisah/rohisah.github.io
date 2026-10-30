@@ -4,12 +4,17 @@ Extensive domain experience in Marketing Technology (Cross-channel Marketing Orc
 <br><br>
 
 # Select AI Projects
-Conversational Analytics Agents, Agent Skills, Aspect-based Sentiment Analysis, Vibe Coding with Replit, RFM Analysis
+Conversational Analytics Agents, Agent Skills, RFM Analysis, Aspect-based Sentiment Analysis, Vibe Coding with Replit
 
 ## Segment Insights Analyst: conversational analytics agent
 The Segment Insights Analyst enables marketers to analyze segment composition, in natural language, directly in the segment design workflow. The agent answers questions about segment KPIs, composition across supported dimensions, top account previews, and comparisons with another segment.
 
 Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm)
+
+## RFM Analysis for Mobile Apps
+[Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm) intelligently segments customers based on mobile app campaign engagement recency.
+
+Read more at: [Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm)
 
 ## FC Form Tracker: sports analytics app built with Replit
 FC Form Tracker is a sports analytics app built with the Replit Starter Plan that enables English Premier League fans to:
@@ -22,8 +27,3 @@ Read more at: [Seven tips for new builders on Replit](https://sahrohit.substack.
 Technology Stack
 - [Replit](https://replit.com) to develop and host the app
 - [football-data.org](https://www.football-data.org) for current's season standings data
-
-## RFM Analysis for Mobile Apps
-[Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm) intelligently segments customers based on mobile app campaign engagement recency.
-
-Read more at: [Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm)
