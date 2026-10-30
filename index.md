@@ -20,4 +20,4 @@ Technology Stack
 - [football-data.org](https://www.football-data.org) for current's season standings data
 
 ## RFM Analysis for Mobile Apps
-Oracle Responsys RFM for Mobile Apps intelligently segments customers based on mobile app campaign engagement recency, frequency, and attributed revenue into six personas Champions, New, Promising, Can't Lost, At Risk, and Lost. This enables marketers to run personalised push notification, in-app message, and message center campaigns to improve customer engagement, retention, and reactivation.
+[Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm) intelligently segments customers based on mobile app campaign engagement recency, frequency, and attributed revenue into six personas Champions, New, Promising, Can't Lost, At Risk, and Lost. This enables marketers to run personalised push notification, in-app message, and message center campaigns to improve customer engagement, retention, and reactivation.
