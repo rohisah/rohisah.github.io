@@ -12,7 +12,7 @@ The [Segment Insights Analyst](https://docs.oracle.com/en/cloud/saas/readiness/m
 Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Contacts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26d/fmkt-26d/26D-fusion-marketing-wn-f52070.htm)
 
 ## Product Brief Builder Agent Skill
-The skill enables Product Management teams to create a complete Product Brief for a new initiative based on the context available in the AI client (eg: Codex). The generated Product Brief adheres to a standard template.
+The [agent skill](https://agentskills.io/home) enables Product Management teams to create a complete Product Brief for a new initiative based on the context available in the AI client (eg: Codex). The generated Product Brief adheres to a standard template.
 
 Benefits include:
 - Productivity boost for PM teams, and
