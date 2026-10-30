@@ -1,8 +1,7 @@
-# Rohit Sah
+# Rohit Sah <a href="https://www.linkedin.com/in/rohit-sah-b46376/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="22" height="22" style="vertical-align: middle; margin-left: 8px;"></a>
 Product Builder with experience in Applied AI, Analytics, Mobile Messaging<br>
 Extensive domain experience in Marketing Technology (Cross-channel Marketing Orchestration, Customer Data Platforms)
 <br><br>
-Connect: [LinkedIn](https://www.linkedin.com/in/rohit-sah-b46376/)
 
 # Select AI Projects
 Conversational Analytics Agents, Agent Skills, Aspect-based Sentiment Analysis, Vibe Coding with Replit, RFM Analysis
@@ -10,7 +9,7 @@ Conversational Analytics Agents, Agent Skills, Aspect-based Sentiment Analysis, 
 ## Segment Insights Analyst: conversational analytics agent for Segment Analytics
 The Segment Insights Analyst enables marketers to analyze segment composition in natural language.
 
-Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Contacts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26d/fmkt-26d/26D-fusion-marketing-wn-f52070.htm)
+Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm)
 
 ## FC Form Tracker: sports analytics app built with Replit
 FC Form Tracker is a sports analytics app built with the Replit Starter Plan that enables English Premier League fans to:
@@ -25,6 +24,6 @@ Technology Stack
 - [football-data.org](https://www.football-data.org) for current's season standings data
 
 ## RFM Analysis for Mobile Apps
-[Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm) intelligently segments customers based on mobile app campaign engagement recency, frequency, and attributed revenue into six personas Champions, New, Promising, Can't Lost, At Risk, and Lost. This enables marketers to run personalised push notification, in-app message, and message center campaigns to improve customer engagement, retention, and reactivation.
+[Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm) intelligently segments customers based on mobile app campaign engagement recency.
 
 Read more at: [Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm)
