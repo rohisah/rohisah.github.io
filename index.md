@@ -23,6 +23,17 @@ Benefits include:
 
 Read more at: [Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm)
 
+## Customer Feedback Analytics powered by Language AI (<mark style="background-color:#dfefff; color:#111;">Aspect-based Sentiment Analysis</mark>)
+Insights and analytics from unstructured customer feedback (product reviews) that enable Product Managers to enhance the product
+- Customer Sentiment Trends
+- Top Positive Features
+- Top Negative Features
+- Profile segmentation into Fans, Critics, Fence sitters personas
+
+Technology stack
+- Aspect-based sentiment analysis implemented with [Oracle OCI Language AI Sentiment Analysis](https://docs.oracle.com/en-us/iaas/Content/language/using/sentment.htm)
+- Analytics visualizations on [Oracle Analytics Cloud (OAC)](https://docs.oracle.com/en/cloud/paas/analytics-cloud/)
+
 ## FC Form Tracker: sports analytics app built with <mark style="background-color:#dfefff; color:#111;">Replit</mark>
 FC Form Tracker is a sports analytics app built with the Replit Starter Plan that enables English Premier League fans to:
 - track team form across seasons
