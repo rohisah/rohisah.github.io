@@ -11,19 +11,19 @@ The [Segment Insights Analyst](https://docs.oracle.com/en/cloud/saas/readiness/m
 
 Read more at: [Segment Insights Analyst for Accounts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26c/fmkt-26c/26C-fusion-marketing-wn-f50669.htm), [Segment Insights Analyst for Contacts Segments](https://docs.oracle.com/en/cloud/saas/readiness/marketing/26d/fmkt-26d/26D-fusion-marketing-wn-f52070.htm)
 
-## Product Brief Builder Agent Skill
+## Product Brief Builder <mark style="background-color:#dfefff; color:#111;">Agent Skill</mark>
 The [agent skill](https://agentskills.io/home) enables Product Management teams to create a complete Product Brief for a new initiative based on the context available in the AI client (eg: Codex). The generated Product Brief adheres to a standard template.
 
 Benefits include:
 - Productivity boost for PM teams, and
 - Compliance with the Product Brief template
 
-## RFM Analysis for Mobile Apps
+## <mark style="background-color:#dfefff; color:#111;">RFM Analysis</mark> for Mobile Apps
 [Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm) intelligently segments customers based on mobile app campaign engagement recency.
 
 Read more at: [Oracle Responsys RFM for Mobile Apps](https://docs.oracle.com/en/cloud/saas/marketing/responsys-user/RFM_Overview.htm)
 
-## FC Form Tracker: sports analytics app built with Replit
+## FC Form Tracker: sports analytics app built with <mark style="background-color:#dfefff; color:#111;">Replit</mark>
 FC Form Tracker is a sports analytics app built with the Replit Starter Plan that enables English Premier League fans to:
 - track team form across seasons
 - compare two teams
